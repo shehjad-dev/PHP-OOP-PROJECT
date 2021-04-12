@@ -29,7 +29,7 @@ Step-4: Now go to step-1 if you have not downloaded the code
 Step-4: Run the PROJECT
         First open 'xampp-control.exe' from your xampp installation directory 
         and start Apache and MySQL
-        Now open up your browser and search for http://localhost/webapp1/
+        Now open up your browser and search for - http://localhost/PHP-OOP-PROJECT-master/
         The project should run correctly
 
 Step-5: Details about the project
