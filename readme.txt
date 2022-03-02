@@ -1,4 +1,4 @@
-Step-1: First Download the code
+Step-1: First Download the code zip file or clone this repo
 
 Step-2: Setup XAMPP for using localhost server,
         You can have any other options installed like wamp, lamp, mamp.
